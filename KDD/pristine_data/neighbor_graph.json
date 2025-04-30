@@ -1,0 +1,212 @@
+{
+  "dongsi_aq": {
+    "qianmen_aq": 3.8273320984681076,
+    "nongzhanguan_aq": 3.8556276869372144,
+    "tiantan_aq": 4.8568657677235745,
+    "dongsihuan_aq": 5.736134584847521
+  },
+  "tiantan_aq": {
+    "yongdingmennei_aq": 1.57064088753209,
+    "qianmen_aq": 1.7713482737218555,
+    "nansanhuan_aq": 4.712265299238626,
+    "wanshouxigong_aq": 4.776564243869769
+  },
+  "guanyuan_aq": {
+    "xizhimenbei_aq": 2.90766321861639,
+    "wanshouxigong_aq": 5.778343065487349,
+    "qianmen_aq": 5.825716983469464,
+    "dongsi_aq": 6.650963111347861
+  },
+  "wanshouxigong_aq": {
+    "nansanhuan_aq": 2.8016089507336006,
+    "yongdingmennei_aq": 3.5908999670005337,
+    "qianmen_aq": 4.348816413169834,
+    "tiantan_aq": 4.776564243869769
+  },
+  "aotizhongxin_aq": {
+    "xizhimenbei_aq": 5.140657879342128,
+    "dongsi_aq": 6.134933060020311,
+    "nongzhanguan_aq": 7.402176971998921,
+    "guanyuan_aq": 7.692285005635852
+  },
+  "nongzhanguan_aq": {
+    "dongsihuan_aq": 1.8888039741869147,
+    "dongsi_aq": 3.8556276869372144,
+    "qianmen_aq": 7.038158603501726,
+    "tiantan_aq": 7.305610849766376
+  },
+  "wanliu_aq": {
+    "xizhimenbei_aq": 6.432701407074674,
+    "zhiwuyuan_aq": 7.016108099148092,
+    "guanyuan_aq": 7.825408545040064,
+    "aotizhongxin_aq": 9.388430734295131
+  },
+  "beibuxinqu_aq": {
+    "zhiwuyuan_aq": 10.180373697717453,
+    "pingchang_aq": 14.902194601405514,
+    "wanliu_aq": 14.957143135335187,
+    "mentougou_aq": 17.97145202557225
+  },
+  "zhiwuyuan_aq": {
+    "wanliu_aq": 7.016108099148092,
+    "gucheng_aq": 9.979589232624452,
+    "beibuxinqu_aq": 10.180373697717453,
+    "mentougou_aq": 11.23923706748392
+  },
+  "fengtaihuayuan_aq": {
+    "wanshouxigong_aq": 6.4493461973989294,
+    "nansanhuan_aq": 7.6363908592852905,
+    "guanyuan_aq": 8.94756430270348,
+    "gucheng_aq": 9.89220968326463
+  },
+  "yungang_aq": {
+    "fangshan_aq": 9.157936869624502,
+    "gucheng_aq": 10.519900131870191,
+    "fengtaihuayuan_aq": 12.1548249027244,
+    "mentougou_aq": 13.020352704785973
+  },
+  "gucheng_aq": {
+    "mentougou_aq": 7.126047481657837,
+    "fengtaihuayuan_aq": 9.89220968326463,
+    "zhiwuyuan_aq": 9.979589232624452,
+    "yungang_aq": 10.519900131870191
+  },
+  "fangshan_aq": {
+    "yungang_aq": 9.157936869624502,
+    "fengtaihuayuan_aq": 18.17291313604847,
+    "gucheng_aq": 19.55983153204426,
+    "liulihe_aq": 21.44809509411073
+  },
+  "daxing_aq": {
+    "yizhuang_aq": 12.220228916838225,
+    "nansanhuan_aq": 15.650173182323744,
+    "yongdingmennei_aq": 17.5895581283086,
+    "wanshouxigong_aq": 18.337439685903416
+  },
+  "yizhuang_aq": {
+    "daxing_aq": 12.220228916838225,
+    "yongdingmennei_aq": 13.136806930782738,
+    "tiantan_aq": 13.184602760616935,
+    "nansanhuan_aq": 13.597444068485457
+  },
+  "tongzhou_aq": {
+    "dongsihuan_aq": 16.44437442455025,
+    "yizhuang_aq": 16.79490900002441,
+    "nongzhanguan_aq": 18.138004837164324,
+    "dongsi_aq": 21.52057253006188
+  },
+  "shunyi_aq": {
+    "huairou_aq": 22.467413248923428,
+    "dongsihuan_aq": 25.523479118674356,
+    "tongzhou_aq": 26.80663837997611,
+    "nongzhanguan_aq": 26.817334178426762
+  },
+  "pingchang_aq": {
+    "dingling_aq": 8.382685003130776,
+    "beibuxinqu_aq": 14.902194601405514,
+    "zhiwuyuan_aq": 23.986792886077648,
+    "wanliu_aq": 26.03027527136715
+  },
+  "mentougou_aq": {
+    "gucheng_aq": 7.126047481657837,
+    "zhiwuyuan_aq": 11.23923706748392,
+    "yungang_aq": 13.020352704785973,
+    "wanliu_aq": 16.39751167048245
+  },
+  "pinggu_aq": {
+    "donggaocun_aq": 5.074795564426409,
+    "miyun_aq": 33.97545449402558,
+    "shunyi_aq": 37.87193913347938,
+    "miyunshuiku_aq": 42.70528659380055
+  },
+  "huairou_aq": {
+    "miyun_aq": 17.907339644943644,
+    "shunyi_aq": 22.467413248923428,
+    "miyunshuiku_aq": 30.587516234494597,
+    "dingling_aq": 34.826048852370555
+  },
+  "miyun_aq": {
+    "miyunshuiku_aq": 15.825930656313128,
+    "huairou_aq": 17.907339644943644,
+    "shunyi_aq": 30.915310294145225,
+    "pinggu_aq": 33.97545449402558
+  },
+  "yanqin_aq": {
+    "badaling_aq": 9.87848181125206,
+    "dingling_aq": 27.602045060332042,
+    "pingchang_aq": 34.159380924582486,
+    "beibuxinqu_aq": 43.85127230716229
+  },
+  "dingling_aq": {
+    "pingchang_aq": 8.382685003130776,
+    "badaling_aq": 21.27574253149943,
+    "beibuxinqu_aq": 22.798692824437502,
+    "yanqin_aq": 27.602045060332042
+  },
+  "badaling_aq": {
+    "yanqin_aq": 9.87848181125206,
+    "dingling_aq": 21.27574253149943,
+    "pingchang_aq": 26.308236814774688,
+    "beibuxinqu_aq": 34.41501174914852
+  },
+  "miyunshuiku_aq": {
+    "miyun_aq": 15.825930656313128,
+    "huairou_aq": 30.587516234494597,
+    "pinggu_aq": 42.70528659380055,
+    "shunyi_aq": 46.71361534205126
+  },
+  "donggaocun_aq": {
+    "pinggu_aq": 5.074795564426409,
+    "miyun_aq": 38.71722818501853,
+    "shunyi_aq": 39.65666526291284,
+    "tongzhou_aq": 45.627607544324384
+  },
+  "yongledian_aq": {
+    "tongzhou_aq": 21.896075020172777,
+    "yizhuang_aq": 25.41484184997312,
+    "daxing_aq": 32.42450276343905,
+    "dongsihuan_aq": 35.96476045989987
+  },
+  "yufa_aq": {
+    "daxing_aq": 23.75041758243868,
+    "liulihe_aq": 26.57284943672664,
+    "fangshan_aq": 28.401008997985194,
+    "yizhuang_aq": 35.29924181777499
+  },
+  "liulihe_aq": {
+    "fangshan_aq": 21.44809509411073,
+    "yufa_aq": 26.57284943672664,
+    "yungang_aq": 29.86857194461566,
+    "daxing_aq": 37.840006670894084
+  },
+  "qianmen_aq": {
+    "tiantan_aq": 1.7713482737218555,
+    "yongdingmennei_aq": 2.5589061083077977,
+    "dongsi_aq": 3.8273320984681076,
+    "wanshouxigong_aq": 4.348816413169834
+  },
+  "yongdingmennei_aq": {
+    "tiantan_aq": 1.57064088753209,
+    "qianmen_aq": 2.5589061083077977,
+    "nansanhuan_aq": 3.1416244678734557,
+    "wanshouxigong_aq": 3.5908999670005337
+  },
+  "xizhimenbei_aq": {
+    "guanyuan_aq": 2.90766321861639,
+    "aotizhongxin_aq": 5.140657879342128,
+    "dongsi_aq": 6.429262332053548,
+    "wanliu_aq": 6.432701407074674
+  },
+  "nansanhuan_aq": {
+    "wanshouxigong_aq": 2.8016089507336006,
+    "yongdingmennei_aq": 3.1416244678734557,
+    "tiantan_aq": 4.712265299238626,
+    "qianmen_aq": 5.3075390364387305
+  },
+  "dongsihuan_aq": {
+    "nongzhanguan_aq": 1.8888039741869147,
+    "dongsi_aq": 5.736134584847521,
+    "qianmen_aq": 8.723767196366751,
+    "aotizhongxin_aq": 8.751380349434845
+  }
+}
