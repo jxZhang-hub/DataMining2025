@@ -1,2 +1,2 @@
 # DataMining2025
-The annoying homework that requires unavailable resources
+The annoying homework and project that require much, yet a piece of shit
