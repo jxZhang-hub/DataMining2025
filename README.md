@@ -1,5 +1,4 @@
 # DataMining2025
-- The annoying homework and project that require much, yet a piece of shit
 
 homework1不用去看它，项目在KDD里面
 
